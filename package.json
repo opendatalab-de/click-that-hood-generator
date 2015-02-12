@@ -1,0 +1,16 @@
+{
+  "name": "click-that-hood-generator",
+  "description": "generator for click that hood game",
+
+  "version": "0.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified! Configure in package.json\" && exit 1"
+  },
+  "dependencies": {
+  },
+  "repository":"",
+  "license": "BSD",
+  "readmeFilename": "README.md"
+
+}
